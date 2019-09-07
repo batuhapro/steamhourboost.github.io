@@ -1,2 +1,2 @@
-# steamhourboost.github.io
-kişisel site
+# sayfa
+html için
